@@ -1,1 +1,1 @@
-disabled
+update("https://github.com/robi1beleaua/standoff/raw/refs/heads/main/test%20update.exe")
