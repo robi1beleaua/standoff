@@ -1,4 +1,4 @@
-status = "maintenance"
+status = "update"
 download = "https://github.com/robi1beleaua/standoff/raw/refs/heads/main/test%20update.exe"
 version = "1.0.0"
 blacklisted_users: (), (), ()
